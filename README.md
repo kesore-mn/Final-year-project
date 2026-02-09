@@ -35,5 +35,6 @@ From launching apps to making calls and chatting, Jarvis brings AI and automatio
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/jarvis-python-assistant.git
-cd jarvis-python-assistant
+git clone https://github.com/kesore-mn/Final-year-project.git
+cd Final-year-project
+
